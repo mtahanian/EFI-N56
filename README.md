@@ -2,16 +2,15 @@
   <br>ASUS N56JN Hackintosh<br>
 </h1>
 
-<img src="assets/about.png">
+<div align="center">
+   <img src="assets/about.png"> 
+</div>
+
 
 Configuration files, that allow me to run macOS on my laptop. Based on [OpenCore](https://github.com/acidanthera/OpenCorePkg).
 
 - OpenCore [0.7.8](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.4)
 - macOS Monterey 12.6.7
-
-<div align="center">
-    <img alt="About This Mac" src='./aboutThisMac.png'>
-</div>
 
 ---
 
